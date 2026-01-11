@@ -23,11 +23,7 @@
 
 ### before this was done:
 
-These are all copy pasted thinking work i did while creating this todo list maker.
-
-(never did this):
-note: cd c:/Users/grayd/OneDrive/Desktop/private_notes/scratch    
-until I make a .venv / nuke the one i'm in
+This is the plan i made before making this todo list maker.
 
 
 # plan:
