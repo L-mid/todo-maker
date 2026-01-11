@@ -21,11 +21,6 @@
     python -m CLI_todo_app --command delete --saved_to todo_lists/newtask.json
 
 
-
-git rm  --cached trash/ -r # del this
-
-
-
 ### before this was done:
 
 These are all copy pasted thinking work i did while creating this todo list maker.
