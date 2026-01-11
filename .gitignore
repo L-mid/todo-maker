@@ -1,0 +1,15 @@
+.pytest_cache/
+__pycache__/
+
+notes/
+trash/
+todo_lists/
+
+.vscode/
+.venv/
+
+build/
+*.egg-info/
+pip-wheel-metadata/
+
+
